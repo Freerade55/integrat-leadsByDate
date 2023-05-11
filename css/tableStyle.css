@@ -1,0 +1,57 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+table {
+    width: 100%;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 10px;
+    text-align: center;
+    border: 1px solid black;
+}
+.orange {
+    background-color: orange;
+}
+.light-pink {
+    background-color: #ffd1dc;
+}
+.red {
+    color: red;
+}
+
+.stv {
+    background-color: #8BC34A;
+    width: 300px;
+}
+
+
+.krd {
+    background-color: #FFF9C4;
+
+}
+
+.rnd {
+    background-color: #87CEFA;
+
+
+}
+
+.bold {
+    font-weight: 700;
+
+}
+
+.leadHistory {
+
+    font-size: 40px;
+    margin-top: 60px;
+    margin-bottom: 60px;
+
+}
+
+.current {
+    margin-top: 50px;
+}
